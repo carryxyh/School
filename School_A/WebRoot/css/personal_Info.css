@@ -1,0 +1,124 @@
+.personal_Info{
+	width: 1015px;
+	margin: 10px auto 0 auto;
+	height: 100%;
+}
+.info_font{
+	color:#808080;
+	font-size: 14px;
+}
+.profile{
+	margin-left: 5px;
+	float: left;
+	width: 598px;
+}
+.personal_intro{
+	width: 214px;
+    float: left;
+}
+.friendList{
+	margin-left: 8px;
+	float: left;
+	width: 188px;
+}
+.personal_Info table{
+	width: 95%;
+    margin: 0 auto;
+}
+.personal_Info table td{
+	line-height: 22px;
+}
+.allkinds{
+	width: 214px;
+    float: left;
+    text-align: center;
+}
+.curInfo{
+	width: 589px;
+    line-height: 30px;
+}
+.tag{
+	background-color: #D8DFEA;
+    font-weight: bold;
+    padding: 3px;
+    border-top: 2px solid #D8DFEA;
+    border-bottom: 2px solid #D8DFEA;
+    border-right: 2px solid #FFFFFF;
+    border-left: 2px solid #D8DFEA;
+}
+a.tag_content:link {
+	font-size: 14px;
+	color: #3B5888;
+	text-decoration: none;
+}
+a.tag_content:visited {
+	font-size: 14px;
+	color: #3B5888;
+	text-decoration: none;
+}
+a.tag_content:hover {
+	font-size: 14px;
+	color: #3B5888;
+	text-decoration: none;
+}
+a.tag_content:active {
+	font-size: 14px;
+	color: #3B5888;
+	text-decoration: none;
+}
+.album{
+	width: 560px;
+    margin: 20px auto 0 auto;
+}
+.album table{
+	width: 100%;
+    text-align: center;
+}
+.album table td{
+	width: 25%;
+    line-height: 20px;
+}
+.log{
+	width: 560px;
+    margin: 20px auto 0 auto;
+}
+.log table{
+	width: 100%;
+}
+.log table td{
+	line-height: 25px;
+}
+.guessbook{
+	width: 560px;
+    margin: 20px auto 0 auto;
+}
+.guessbook table{
+	width: 100%;
+}
+.guessbook table td{
+	line-height: 25px;
+}
+.ly_btn{
+	margin-top:10px;
+  	margin-bottom: 10px;
+  	margin-left:5px;
+}
+.mess_con{
+	width: 560px;
+    margin: 20px auto 0 auto;
+    border-bottom: 1px solid gray;
+}
+.mess_con table {
+    width: 100%;
+}
+.mess_con table td {
+    line-height: 25px;
+}
+.special_friend,.last_visit,.good_friend{
+	width: 188px;
+    margin-top: 10px;
+}
+.special_friend table,.last_visit table,.good_friend table{
+	width: 100%;
+    text-align: center;
+}

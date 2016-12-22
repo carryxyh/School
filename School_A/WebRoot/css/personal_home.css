@@ -1,0 +1,64 @@
+.home_main_div{
+	margin-left: 18%;
+	width: 1000px;
+	height:100%;
+	float:left;
+}
+.home_left_main{
+	float:left;
+	width: 610px;
+	height: 1000px;
+}
+.home_right_main{
+	float:left;
+	width: 232px;
+	height: 700px;
+}
+.profile{
+	width: 584px;
+	height:154px;
+	margin: 15px auto 0 auto;
+}
+.profile table{
+	width: 90%;
+	margin: 0 auto;
+}
+.profile table td{
+	line-height: 25px;
+}
+.message{
+	margin: 15px auto 0 auto;
+	width: 584px;
+	height:108px;
+}
+.message table{
+	width: 90%;
+	margin: 0 auto;
+}
+.message table td{
+	line-height: 25px;
+}
+.news{
+	margin: 15px auto 0 auto;
+	width:584px;
+	height:66px;
+}
+.news table{
+	width: 90%;
+	margin: 0 auto;
+}
+.news table td{
+	line-height: 25px;
+}
+.latestViewer,.mayKnow,.onlineFriend{
+	width: 190px;
+	margin: 15px auto 0 auto;
+}
+.latestViewer table,.mayKnow table,.onlineFriend table{
+	width: 100%;
+	margin: 0 auto;	
+}
+.latestViewer table td,.mayKnow table td,.onlineFriend table td{
+	width: 33%;
+ 	vertical-align: top;
+}
